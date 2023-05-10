@@ -1,4 +1,4 @@
-package design.strategy;
+package design.singleton;
 
 public class EagerSingleton {
 
